@@ -1,0 +1,69 @@
+{
+ "_comentario": "Ejemplo de lista de productos. Copiar este archivo a data/precios_traqueo.json y ajustar a tus productos.",
+ "items": [
+  {
+   "id": "panales",
+   "etiqueta": "Pañales talla grande 15-20 kg / más de 16 kg — por peso, no por talla de marca",
+   "termino": "pañales xxg",
+   "filtro": [
+    "panal"
+   ],
+   "tiendas": [
+    "santa-isabel",
+    "jumbo",
+    "unimarc",
+    "lider",
+    "ahumada",
+    "pedregal",
+    "cugat"
+   ]
+  },
+  {
+   "id": "leche",
+   "etiqueta": "Leche entera 1 L",
+   "termino": "leche entera",
+   "filtro": [
+    "leche"
+   ],
+   "tiendas": [
+    "santa-isabel",
+    "jumbo",
+    "unimarc",
+    "lider",
+    "cugat"
+   ]
+  },
+  {
+   "id": "comida-perro",
+   "etiqueta": "Comida de perro, saco grande",
+   "termino": "alimento perro adulto 15 kg",
+   "filtro": [
+    "perro"
+   ],
+   "tiendas": [
+    "santa-isabel",
+    "jumbo",
+    "unimarc",
+    "lider",
+    "pedregal",
+    "cugat"
+   ]
+  },
+  {
+   "id": "confort",
+   "etiqueta": "Confort, paquete grande",
+   "termino": "papel higienico",
+   "filtro": [
+    "papel",
+    "confort"
+   ],
+   "tiendas": [
+    "santa-isabel",
+    "jumbo",
+    "unimarc",
+    "lider",
+    "cugat"
+   ]
+  }
+ ]
+}

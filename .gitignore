@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datos locales: lista real de productos, historial y precios de referencia.
+data/*
+!data/.gitkeep
